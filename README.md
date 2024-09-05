@@ -65,4 +65,4 @@ Se tiveres sugestões ou comentários sobre os projetos, sinta-te à vontade par
 
 ---
 
-Feito com ❤️ por [Paulo Guimarães](https://github.com/Pelinho03)
+Feito por [Paulo Guimarães](https://github.com/Pelinho03)
